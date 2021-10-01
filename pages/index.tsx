@@ -98,7 +98,7 @@ function Home() {
     <Box bg="#393960" minW="100vw" minH="100vh">
     <>
       <Head>
-        <title>Ziggystax POTS Minting</title>
+        <title>ZiggyStax POTS Minting</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
           <Center pt={5}>
@@ -113,7 +113,7 @@ function Home() {
           <Center>
             <HStack>
             <Img maxW="100px" maxH="100px" p="1em" src="/pots.svg" />
-            <Heading fontSize={{base: "xl", md: "3xl"}} color="#B4B3CC" p={{base: 0, md: 5}}>Ziggystax POTS Minter</Heading>
+            <Heading fontSize={{base: "xl", md: "3xl"}} color="#B4B3CC" p={{base: 0, md: 5}}>ZiggyStax POTS Minter</Heading>
             <Img maxW="100px" maxH="100px" p="1em" src="/pots.svg" />
             </HStack>
           </Center>
